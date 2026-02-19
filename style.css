@@ -1,0 +1,16 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f7f8fc;
+  color: #2d3436;
+  text-align: center;
+}
+
+svg {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0px 10px 25px rgba(0,0,0,0.08);
+}
+
+h1 {
+  margin-bottom: 40px;
+}
